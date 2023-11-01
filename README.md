@@ -1,2 +1,1 @@
-# GitHubIntroNov1
-Introduction to Github Respositories and GitHub Desktop (Brock University)
+# Introduction to GitHub Repositories and GitHub Desktop
