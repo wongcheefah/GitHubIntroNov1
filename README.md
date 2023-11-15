@@ -1,4 +1,4 @@
-# Welcome to mu GitHub page!
+# Welcome to my GitHub page!
 
 ## Check out my portfolio page
 
