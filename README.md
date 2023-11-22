@@ -4,4 +4,4 @@
 
 [Portfolio](https://wongcheefah.pythonanywhere.com)
 ---
-![Data Engineer vs Data Scientist](Roles-2.jpg)
+![Data Engineer vs Data Scientist](images/Roles-2.jpg)
